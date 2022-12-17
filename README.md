@@ -1,2 +1,6 @@
 # Adopt-Me-X-Gui-
-This is a roblox adopt me gui/script
+This is a roblox adopt me gui/script with some decent features
+
+# Features!
+
+* test
